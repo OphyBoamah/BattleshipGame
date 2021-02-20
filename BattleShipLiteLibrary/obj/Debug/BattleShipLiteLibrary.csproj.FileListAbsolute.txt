@@ -1,0 +1,6 @@
+/Users/opheliaboamahampoh/Documents/Dev/C#/Mine/BattleShipApp/BattleShipLiteLibrary/bin/Debug/BattleShipLiteLibrary.dll
+/Users/opheliaboamahampoh/Documents/Dev/C#/Mine/BattleShipApp/BattleShipLiteLibrary/bin/Debug/BattleShipLiteLibrary.pdb
+/Users/opheliaboamahampoh/Documents/Dev/C#/Mine/BattleShipApp/BattleShipLiteLibrary/obj/Debug/BattleShipLiteLibrary.csprojAssemblyReference.cache
+/Users/opheliaboamahampoh/Documents/Dev/C#/Mine/BattleShipApp/BattleShipLiteLibrary/obj/Debug/BattleShipLiteLibrary.csproj.CoreCompileInputs.cache
+/Users/opheliaboamahampoh/Documents/Dev/C#/Mine/BattleShipApp/BattleShipLiteLibrary/obj/Debug/BattleShipLiteLibrary.dll
+/Users/opheliaboamahampoh/Documents/Dev/C#/Mine/BattleShipApp/BattleShipLiteLibrary/obj/Debug/BattleShipLiteLibrary.pdb

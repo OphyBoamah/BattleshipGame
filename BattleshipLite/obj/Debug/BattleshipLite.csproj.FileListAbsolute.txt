@@ -4,3 +4,6 @@
 /Users/opheliaboamahampoh/Documents/Dev/C#/Mine/BattleShipApp/BattleshipLite/obj/Debug/BattleshipLite.csproj.CoreCompileInputs.cache
 /Users/opheliaboamahampoh/Documents/Dev/C#/Mine/BattleShipApp/BattleshipLite/obj/Debug/BattleshipLite.exe
 /Users/opheliaboamahampoh/Documents/Dev/C#/Mine/BattleShipApp/BattleshipLite/obj/Debug/BattleshipLite.pdb
+/Users/opheliaboamahampoh/Documents/Dev/C#/Mine/BattleShipApp/BattleshipLite/bin/Debug/BattleShipLiteLibrary.dll
+/Users/opheliaboamahampoh/Documents/Dev/C#/Mine/BattleShipApp/BattleshipLite/bin/Debug/BattleShipLiteLibrary.pdb
+/Users/opheliaboamahampoh/Documents/Dev/C#/Mine/BattleShipApp/BattleshipLite/obj/Debug/BattleshipLite.csproj.CopyComplete
